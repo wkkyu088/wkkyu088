@@ -11,10 +11,10 @@
   
   ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=React&style=flat-square&logoColor=white)
   ![JS Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=flat-square&logoColor=black)
-  ![JS Badge](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat-square&logoColor=white)
-  ![JS Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=flat-square&logoColor=white)
-  ![JS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=white)
-  ![JS Badge](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=flat-square&logoColor=white)
-  ![JS Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=flat-square&logoColor=white)
+  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat-square&logoColor=white)
+  ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=flat-square&logoColor=white)
+  ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=white)
+  ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&style=flat-square&logoColor=white)
+  ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=flat-square&logoColor=white)
   
 </div>
