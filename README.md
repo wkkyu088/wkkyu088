@@ -20,3 +20,10 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
   
 </div>
+<div align="center">
+  <p></p>
+  <p>🌻</p> 
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/wkkyu088?pet-id=1" width="1000" height="120"/>
+  </a>
+</div>
